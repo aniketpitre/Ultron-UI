@@ -4,11 +4,7 @@ An Iron Man–inspired holographic orb built with **Next.js**, **Three.js**, and
 
 > 🔮 This is the open-source **interface** of ULTRON — my AI that talks in real time and controls Android devices by itself.
 
-> 📱 **[Watch the demo on Instagram](https://www.instagram.com/p/DayJ17OTwvx/)**
-
 ![ULTRON orb UI](docs/screenshot.png)
-
-https://github.com/user-attachments/assets/91578a83-9a27-44e8-84b0-96defcfd7366
 
 ## Getting started
 
